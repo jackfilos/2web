@@ -1,0 +1,37 @@
+body {
+    margin: 2px;
+   
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    
+
+}
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;color: rgb(0, 0, 0);
+
+
+}
+h2 {
+   font-family: 'Montserrat', sans-serif;
+   
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.topdiv {
+    background-color: rgb(250, 255, 252);
+    padding-top: 50px;
+}
+.st{
+    position: relative;
+    left: 180px;
+    top: 50px;
+}
+.nd {
+    position:absolute;
+    top:220px;
+    left: 220px;
+}
